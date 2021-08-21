@@ -87,14 +87,12 @@
 - OpenSea is very valuable
 
 Actions:
-- ask discord who pays for the liquidation fees, the liquidated or liquidator?
+- ask discord who pays for the liquidation fees, the liquidated or liquidator? --> Liquidated
 - check the additional links shown in _A Beginner’s Guide To Going Long & Short using Perpetuals on dYdX _ dYdX Help Center.pdf
-- check how the funding rate is displayed in the frontend, every hour or 8 hours?_General – v3 dYdX Documentation.pdf
-- ask on discord what they mean by index price, is that the oracle price? _General – v3 dYdX Documentation.pdf
-- check if markdown can do formulas?
+- check how the funding rate is displayed in the frontend, every hour or 8 hours?_General – v3 dYdX Documentation.pdf --> both
+- ask on discord what they mean by index price, is that the oracle price? _General – v3 dYdX Documentation.pdf --> oracle price is price from oracles, index is from other market places
+- check if markdown can do formulas? -> no
 - to place an order by API, you need STARK key authentication
 - you can also authenticate by eth account private key, this is maximum level of authentication
-- ask on discord how the L2 fees work, is maker still free and taker 0.05%-0.50%?
+- ask on discord how the L2 fees work, is maker still free and taker 0.05%-0.50%?. No. maker is 0.05% and taker 0.10%, there are discounts based on average trade weighted volume over 30D.
 - [check perp fees](https://help.dydx.exchange/en/articles/4798040-perpetual-trade-fees)
-- 
-
