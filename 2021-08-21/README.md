@@ -5,3 +5,5 @@
 - __maxPositionSize__: max amount your position can be
 
 see [here](https://help.dydx.exchange/en/articles/5232637-maximum-position-sizes) for help article
+
+[hummingbot has articles on how to connect to defi protocols](https://docs.hummingbot.io/connectors/dydx-perpetual/)
